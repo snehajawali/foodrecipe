@@ -1,0 +1,25 @@
+.recipe {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem;
+    width: 300px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .recipe img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .recipe h2 {
+    font-size: 1.25rem;
+    margin: 0.5rem 0;
+  }
+  
+  .recipe ul {
+    padding-left: 20px;
+  }
+  
